@@ -1,2 +1,2 @@
-# proyecto_recetas
-Este repositorio se utilizará para tener un registro de los avances en el proyecto de Desarrollo de Aplicaciones Interactivas II
+# Gusticos
+Gusticos es una web en la que pudes buscar recetas y compartir recetas nuevas con sus usuarios
